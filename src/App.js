@@ -40,7 +40,7 @@ function App() {
       </nav>
       <div className="container pt-5">
         <div className="row">
-          <div className="col-md-6">Texto</div>
+          <div className="col-md-6">Esta es mi p&aacute;gina web</div>
           <div className="col-md-6">
             <Iframe>Intercambia tokens</Iframe>
           </div>
